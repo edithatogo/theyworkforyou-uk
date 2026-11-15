@@ -1,0 +1,12 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata and record the commit
+  or release used.
+title: TheyWorkForYou
+authors:
+- name: TheyWorkForYou project
+  website: https://github.com/mysociety/theyworkforyou
+repository-code: https://github.com/edithatogo/theyworkforyou-uk
+url: https://github.com/edithatogo/theyworkforyou-uk
+abstract: This repository is a fork of mysociety/theyworkforyou. The upstream project retains
+  its authorship and attribution. Cite the exact repository revision used.
