@@ -1,4 +1,4 @@
-FROM mysocietyorg/debian:bullseye
+FROM mysocietyorg/debian:bullseye@sha256:ebc8e0b73c3be0ea64f4beb264175c6bfa92e0e67345cfacffbfa1af4b6de9f7
 
 # Apache.
 RUN apt-get -qq update && apt-get -qq install \
